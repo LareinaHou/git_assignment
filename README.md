@@ -1,8 +1,3 @@
-Hello， git_assignment
-Hello, again
-
-
-
 a. What is an issue?
 An issue is a way to keep track of tasks, improvements, and bugs in your projects. It’s like a to-do list where you can discuss new features, report problems, or ask questions. You can assign issues to team members, add labels, and link them to pull requests.
 
@@ -29,3 +24,7 @@ It is the default branch in a Git repository. It usually represents the producti
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 Would be better not to pushing changes directly to the main branch, especially in a team work. Better to create a new branch for my changes, commit the work there, and then open a pull request to merge the changes into the main branch. This allows for code review and testing before the changes are integrated.
+
+
+
+
